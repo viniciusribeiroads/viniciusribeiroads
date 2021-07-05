@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#  Welcome!
+
+### Sou técnico em redes graduando em análise e desenvolvimento de sistemas.
+
+### Tenho conhecimentos básicos em python, js e atualmente trabalho com C#, HTML e CSS, aqui posto meus projetos pessoais.
+
+
 <!--
 **viniciusribeiroads/viniciusribeiroads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
