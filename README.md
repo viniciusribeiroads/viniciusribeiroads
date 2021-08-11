@@ -4,7 +4,7 @@
 
 ### Sou técnico em redes graduando em análise e desenvolvimento de sistemas.
 
-### Tenho conhecimentos básicos em python, CH e atualmente trabalho com Javascript, HTML e CSS e aqui posto meus projetos pessoais.
+### Tenho conhecimentos em python, C# e atualmente trabalho com Javascript, HTML e CSS e aqui posto meus projetos pessoais.
 
 
 <!--
