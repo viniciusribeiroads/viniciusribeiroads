@@ -1,6 +1,6 @@
 #  Welcome!
 
-### Sou técnico em redes graduando em análise e desenvolvimento de sistemas.
+### Sou técnico em redes graduando em análise e desenvolvimento de sistemas, atualmente me encontro focado em Java e React, porém tenho experiências anteriores com Python, JS e C#.
 
  <div>
   <a href="https://github.com/viniciusribeiroads">
