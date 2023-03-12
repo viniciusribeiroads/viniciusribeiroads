@@ -1,6 +1,6 @@
 #  Welcome!
 
-### Sou técnico em redes graduando em análise e desenvolvimento de sistemas, atualmente me encontro no contexto Java e Kotlin, porém tenho experiências anteriores com Python, JS e C#.
+### Técnico em redes e formado em análise e desenvolvimento de sistemas, cursando pós em Arquitetura de Software, apaixonado por tecnologia e amante de jogos.
 
  <div>
   <a href="https://github.com/viniciusribeiroads">
